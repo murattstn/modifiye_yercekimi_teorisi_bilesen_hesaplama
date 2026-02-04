@@ -37,9 +37,3 @@ Bu yönüyle proje, **modelden bağımsız sayısal bir analiz aracı** olmayı 
 - Sembolik hesaplama yerine sayısal yöntemler kullanılmıştır.
 - Kod içerisinde yer alan yorumlar, hem matematiksel hem fiziksel varsayımları açıklamaktadır.
 - Okunabilirlik ve genişletilebilirlik ön planda tutulmuştur.
-
-## Dosya Yapısı
-
-.
-├── modified_gravity.py
-└── README.md
